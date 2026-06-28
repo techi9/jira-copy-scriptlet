@@ -1,0 +1,10 @@
+{
+  "name": "jira-copy-userscript",
+  "version": "1.0.0",
+  "description": "A simple browser userscript",
+  "scripts": {
+    "build": "echo 'No build step needed for userscript'",
+    "dev": "echo 'Edit userscript.user.js directly'"
+  },
+  "devDependencies": {}
+}
