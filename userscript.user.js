@@ -4,7 +4,7 @@
 // @version      1.0.0
 // @description  Adds a copy button to Jira issue cards on Agile boards
 // @author       techi9
-// @include      *://jira.*/**
+// @include      *://jira.**/**
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
