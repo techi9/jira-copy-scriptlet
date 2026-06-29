@@ -5,6 +5,8 @@
 // @description  Adds a copy button to Jira issue cards on Agile boards
 // @author       techi9
 // @include      *://jira.**/**
+// @updateURL    https://raw.githubusercontent.com/techi9/jira-copy-scriptlet/main/userscript.user.js
+// @downloadURL  https://raw.githubusercontent.com/techi9/jira-copy-scriptlet/main/userscript.user.js
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
